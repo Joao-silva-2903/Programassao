@@ -64,6 +64,5 @@ int main() {
         } else {
             printf("%-10d | %-15.2f (°C)\n", arr_in[j], arr_out[j]);
         }
-
     }
 }
